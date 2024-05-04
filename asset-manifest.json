@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/kittyfriends/static/css/main.e4f37dc2.css",
-    "main.js": "/kittyfriends/static/js/main.63eef73a.js",
-    "static/js/453.eceb90f9.chunk.js": "/kittyfriends/static/js/453.eceb90f9.chunk.js",
-    "static/media/Cat.woff": "/kittyfriends/static/media/Cat.7eddb77f94528dbcd0b8.woff",
-    "index.html": "/kittyfriends/index.html",
-    "main.e4f37dc2.css.map": "/kittyfriends/static/css/main.e4f37dc2.css.map",
-    "main.63eef73a.js.map": "/kittyfriends/static/js/main.63eef73a.js.map",
-    "453.eceb90f9.chunk.js.map": "/kittyfriends/static/js/453.eceb90f9.chunk.js.map"
+    "main.css": "/kittyfinder/static/css/main.4a0dfdbb.css",
+    "main.js": "/kittyfinder/static/js/main.0320fcc5.js",
+    "static/js/453.eceb90f9.chunk.js": "/kittyfinder/static/js/453.eceb90f9.chunk.js",
+    "static/media/Cat.woff": "/kittyfinder/static/media/Cat.7eddb77f94528dbcd0b8.woff",
+    "index.html": "/kittyfinder/index.html",
+    "main.4a0dfdbb.css.map": "/kittyfinder/static/css/main.4a0dfdbb.css.map",
+    "main.0320fcc5.js.map": "/kittyfinder/static/js/main.0320fcc5.js.map",
+    "453.eceb90f9.chunk.js.map": "/kittyfinder/static/js/453.eceb90f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e4f37dc2.css",
-    "static/js/main.63eef73a.js"
+    "static/css/main.4a0dfdbb.css",
+    "static/js/main.0320fcc5.js"
   ]
 }
