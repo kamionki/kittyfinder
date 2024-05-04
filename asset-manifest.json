@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kittyfinder/static/css/main.4a0dfdbb.css",
-    "main.js": "/kittyfinder/static/js/main.df3cfe3b.js",
+    "main.js": "/kittyfinder/static/js/main.ee0b9f6e.js",
     "static/js/453.ac0afbf3.chunk.js": "/kittyfinder/static/js/453.ac0afbf3.chunk.js",
     "static/media/Cat.woff": "/kittyfinder/static/media/Cat.7eddb77f94528dbcd0b8.woff",
     "index.html": "/kittyfinder/index.html",
     "main.4a0dfdbb.css.map": "/kittyfinder/static/css/main.4a0dfdbb.css.map",
-    "main.df3cfe3b.js.map": "/kittyfinder/static/js/main.df3cfe3b.js.map",
+    "main.ee0b9f6e.js.map": "/kittyfinder/static/js/main.ee0b9f6e.js.map",
     "453.ac0afbf3.chunk.js.map": "/kittyfinder/static/js/453.ac0afbf3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a0dfdbb.css",
-    "static/js/main.df3cfe3b.js"
+    "static/js/main.ee0b9f6e.js"
   ]
 }
